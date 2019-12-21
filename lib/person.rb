@@ -1,1 +1,3 @@
-class People
+class Person
+end 
+alan kay = Person.new
